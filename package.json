@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@faker-js/faker": "^9.7.0",
     "cypress": "^13.6.0",
     "teste-ebac-ui": "file:"
   }
